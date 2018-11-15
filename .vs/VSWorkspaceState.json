@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BusinessLayer",
+    "\\BusinessLayer\\Models",
+    "\\DataLayer",
+    "\\DataLayer\\Models",
+    "\\Infrastructure",
+    "\\WebApi"
   ],
-  "SelectedNode": "\\WebApi.sln",
+  "SelectedNode": "\\DataLayer\\Models\\Products.cs",
   "PreviewInSolutionExplorer": false
 }

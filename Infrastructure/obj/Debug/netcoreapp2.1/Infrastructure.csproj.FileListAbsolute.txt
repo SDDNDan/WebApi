@@ -1,0 +1,8 @@
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb

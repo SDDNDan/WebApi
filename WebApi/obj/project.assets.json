@@ -11508,9 +11508,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dslusari\\Source\\Repos\\SDDNDan\\WebApi\\WebApi\\WebApi.csproj",
-      "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Dslusari\\Source\\Repos\\SDDNDan\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Dslusari\\Source\\Repos\\SDDNDan\\WebApi\\WebApi\\ServiceLayer.csproj",
+      "projectName": "ServiceLayer",
+      "projectPath": "C:\\Users\\Dslusari\\Source\\Repos\\SDDNDan\\WebApi\\WebApi\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\Dslusari\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dslusari\\Source\\Repos\\SDDNDan\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
