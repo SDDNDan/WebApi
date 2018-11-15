@@ -1,13 +1,14 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataLayer.Models
 {
-    public class Products
+    public class Product
     {
-        private Products() { }
+        private Product() { }
 
-        public Products(Guid id, string name, decimal price, int pieces)
+        public Product(Guid id, string name, decimal price, int pieces)
         {
             this.Id = id;
             this.Name = name;
@@ -15,6 +16,7 @@ namespace DataLayer.Models
             this.Pieces = pieces;
         }
 
+        [Required]
         public Guid Id { get; private set; }
 
         public string Name { get; private set; }

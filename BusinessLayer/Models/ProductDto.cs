@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BusinessLayer.Models
 {
-    public class ProductsDto
+    public class ProductDto
     {
-        private ProductsDto() { }
+        private ProductDto() { }
 
-        public ProductsDto(Guid id, string name, decimal price, int pieces)
+        public ProductDto(Guid id, string name, decimal price, int pieces)
         {
             this.Id = id;
             this.Name = name;

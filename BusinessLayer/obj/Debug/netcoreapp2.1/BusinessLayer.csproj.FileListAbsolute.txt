@@ -6,3 +6,7 @@ C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp
 C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
 C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
 C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Dslusari\source\repos\SDDNDan\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete

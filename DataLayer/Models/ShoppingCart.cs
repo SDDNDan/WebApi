@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataLayer.Models
@@ -14,6 +15,7 @@ namespace DataLayer.Models
             this.Description = description;
         }
 
+        [Required]
         public Guid Id { get; private set; }
 
         public DateTime Date { get; private set; }
